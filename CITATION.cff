@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the associated article and this release."
+title: "C. elegans VAE Neuron-Sketch Synthesis"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/enantiomer-h/celegans-vae-neuron-synthesis"
+authors:
+  - family-names: Huang
+    given-names: Yuxiang
+  - family-names: Iino
+    given-names: Yuichi
+  - family-names: Toyoshima
+    given-names: Yu
+preferred-citation:
+  type: article
+  title: "Synthesis of 3D Fluorescence Images Using VAE-Diffusion Models and Their Application for 3D-UNETR Neuronal Cell Identification"
+  authors:
+    - family-names: Huang
+      given-names: Yuxiang
+    - family-names: Iino
+      given-names: Yuichi
+    - family-names: Toyoshima
+      given-names: Yu

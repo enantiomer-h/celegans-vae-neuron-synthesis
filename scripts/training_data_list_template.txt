@@ -1,0 +1,3 @@
+# Training data list template.
+# One training file name per line; each entry is matched against the
+# imname field of the .mat files in the --neuron-id-dir directory.
